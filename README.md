@@ -15,4 +15,10 @@ pxm update write test
 
 merge dev branch to master on mac
 
+
 I have fix the bug 101 on issue-101 branch
+
+I am developing half on dev branch,but now need to fix a bug,so i need to stash local dev branch 
+
+the bug 101 has fixed,no continue to developing.
+
