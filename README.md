@@ -14,3 +14,5 @@ master update
 pxm update write test
 
 merge dev branch to master on mac
+
+I have fix the bug 101 on issue-101 branch
