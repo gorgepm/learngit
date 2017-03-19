@@ -22,3 +22,5 @@ I am developing half on dev branch,but now need to fix a bug,so i need to stash 
 
 the bug 101 has fixed,no continue to developing.
 
+xiaoming push dev update info
+
