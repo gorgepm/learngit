@@ -18,3 +18,6 @@ merge dev branch to master on mac
 I am developing half on dev branch,but now need to fix a bug,so i need to stash local dev branch 
 
 the bug 101 has fixed,no continue to developing.
+
+
+xiaoming push dev update info
